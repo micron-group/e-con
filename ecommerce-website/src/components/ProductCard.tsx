@@ -1,1 +1,0 @@
-// ProductCard.tsx content placeholder
